@@ -1,0 +1,8 @@
+{
+  "name": "domain-dresser",
+  "version": "1.0.0",
+  "description": "Blindly redirects naked domain requests to the www. subdomain.",
+  "main": "index.js",
+  "author": "Dan Puzey",
+  "license": "MIT"
+}
